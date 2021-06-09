@@ -1,0 +1,38 @@
+/*stylesheet*/
+#title1 {
+    position: relative;
+    font-size: 40px;
+    text-align: center;
+    top: 160px;
+    color:navy;
+}
+
+#clk {
+    position: relative;
+    font-size: 70px;
+    text-align: center;
+    border: 2px solid black;
+    margin: 200px 600px;
+    padding: 40px;
+    border-radius: 25%;
+    background-color: lightblue;
+}
+
+#btn1,#btn2 {
+    position: relative;
+    left: 675px;
+    bottom: 225px;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px;
+    background-color: greenyellow;
+    border-radius: 50%;
+}
+
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+hr {
+    border: 1px solid black;
+}
